@@ -1,0 +1,106 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "Clothes"
+    },
+    {
+      "id": 2,
+      "name": "Electronics"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Baby clothes",
+      "department": "Clothes"
+    },
+    {
+      "id": 2,
+      "name": "Women clothes",
+      "department": "Clothes"
+    },
+    {
+      "id": 3,
+      "name": "Television and Entertainment",
+      "department": "Electronics"
+    },
+    {
+      "id": 4,
+      "name": "Music",
+      "department": "Electronics"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "shoes for babies",
+      "cost": 25.30,
+      "department": "Clothes ",
+      "category": "Baby clothes"
+    },
+    {
+      "id": 2,
+      "name": "shorts for babies",
+      "cost": 12.99,
+      "department": "Clothes ",
+      "category": "Baby clothes"
+    },
+    {
+      "id": 3,
+      "name": "shirts  for babies",
+      "cost": 7,
+      "department": "Clothes ",
+      "category": "Baby clothes"
+    },
+    {
+      "id": 4,
+      "name": "shoes for women",
+      "cost": 54,
+      "department": "Clothes ",
+      "category": "Women clothes"
+    },
+    {
+      "id": 5,
+      "name": "shorts for women",
+      "cost": 73.35,
+      "department": "Clothes ",
+      "category": "Women clothes"
+    },
+    {
+      "id": 6,
+      "name": "blouses  for women",
+      "cost": 99,
+      "department": "Clothes ",
+      "category": "Women clothes"
+    },
+    {
+      "id": 7,
+      "name": "TV LED Samnsung",
+      "cost": 250,
+      "department": "Electronics",
+      "category": "Television and Entertainment"
+    },
+    {
+      "id": 8,
+      "name": "PlayStation 3",
+      "cost": 559.99,
+      "department": "Electronics",
+      "category": "Television and Entertainment"
+    },
+    {
+      "id": 9,
+      "name": "Super Audio system",
+      "cost": 73.35,
+      "department": "Electronics",
+      "category": "Music"
+    },
+    {
+      "id": 10,
+      "name": "Home Theatre",
+      "cost": 99,
+      "department": "Electronics",
+      "category": "Music"
+    }
+  ]
+}
