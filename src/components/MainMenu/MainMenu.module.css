@@ -1,0 +1,12 @@
+.nav a {
+    padding: 0 25px !important;
+}
+
+.navs a {
+    border-bottom: 2px solid transparent !important;
+}
+
+.navs a.active {
+    color: red !important;
+    border-bottom: 2px solid !important;
+}
